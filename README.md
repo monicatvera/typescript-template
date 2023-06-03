@@ -1,4 +1,4 @@
-# Base template only with TypeScript
+# Base template with TypeScript
 You can use it for Coding-Dojos, Katas or reference to build a new project.
 
 This template includes:
